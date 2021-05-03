@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\bin\Debug\netstandard2.0\DBConnection.deps.json
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\bin\Debug\netstandard2.0\DBConnection.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\bin\Debug\netstandard2.0\DBConnection.pdb
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\obj\Debug\netstandard2.0\DBConnection.csprojAssemblyReference.cache
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\obj\Debug\netstandard2.0\DBConnection.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\obj\Debug\netstandard2.0\DBConnection.AssemblyInfo.cs
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\obj\Debug\netstandard2.0\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\obj\Debug\netstandard2.0\DBConnection.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DBConnection\obj\Debug\netstandard2.0\DBConnection.pdb
