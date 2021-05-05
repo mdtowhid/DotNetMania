@@ -14,42 +14,56 @@ namespace DapperWebApi.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        private static IEmployeeRepository _employeeRepository;
+        private static IEmployeeRepository _repo;
+        private string query="";
 
         public EmployeeController(IEmployeeRepository employeeRepository)
         {
-            _employeeRepository = employeeRepository;
-        }
-
-        [HttpPost]
-        public void Post([FromForm]Employee employee)
-        {
-            _employeeRepository.Add(employee);
+            _repo = employeeRepository;
         }
 
         [HttpGet]
-        public List<Employee> GetAll()
+        public IActionResult GetAll()
         {
-            return _employeeRepository.GetAll().ToList();
+            query = "SELECT * FROM EmployeeInfo";
+            return Ok(_repo.GetAll(query).ToList());
         }
 
         [HttpGet("{id}")]
-        public Employee GetById(int id)
+        public IActionResult GetById(int id)
         {
-            return _employeeRepository.GetById(id);
+            query = "SELECT * FROM EmployeeInfo WHERE EmpId=@id";
+            return Ok(_repo.GetById(query, id));
+        }
+        [HttpPost]
+        public IActionResult Post([FromForm]Employee employee)
+        {
+            query = @"INSERT INTO 
+                                 EmployeeInfo(EmpName, Designation, Department) 
+                                 VALUES(@EmpName, @Designation, @Department);
+                                 SELECT CAST(SCOPE_IDENTITY() as int)";
+            dynamic id = _repo.Save(query, employee);
+            query = "SELECT * FROM EmployeeInfo WHERE EmpId=@id";
+            Employee emp = _repo.GetById(query, id);
+            return Ok(emp);
         }
 
         [HttpPut]
-        public Employee PutEmployee([FromBody]Employee employee)
+        public IActionResult PutEmployee([FromBody]Employee employee)
         {
-            employee.EmpId = employee.EmpId;
-            return _employeeRepository.Put(employee);
+            query = @"UPDATE EmployeeInfo 
+                                 SET EmpName=@EmpName, Designation=@Designation,Department=@Department
+                                 WHERE EmpId=@EmpId";
+            var result = _repo.Update(query, employee);
+            return Ok(result);
         }
 
         [HttpDelete]
-        public bool DeleteEmployee(int id)
+        public IActionResult DeleteEmployee(int id)
         {
-            return _employeeRepository.DeleteById(id);
+            query = @"DELETE FROM EmployeeInfo 
+                                 WHERE EmpId=@id";
+            return Ok(_repo.RemoveById(query, id));
         }
     }
 }

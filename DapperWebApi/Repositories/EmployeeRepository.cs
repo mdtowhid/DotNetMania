@@ -9,7 +9,7 @@ using System.Linq;
 
 namespace Repositories
 {
-    public class EmployeeRepository: IEmployeeRepository
+    public class EmployeeRepository
     {
         private string connectionString = @"data source=desktop-8kas1u3;initial catalog=DotNetMania;persist security info=True;Integrated Security=true;";
 

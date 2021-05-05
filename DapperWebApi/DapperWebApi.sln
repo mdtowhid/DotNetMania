@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", "Repositorie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBConnection", "DBConnection\DBConnection.csproj", "{437ED49C-992A-46F0-9A2B-ACD5FBBD924A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D2DCCEB3-1740-4CA7-B3F5-2DE5CF712AAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D2DCCEB3-1740-4CA7-B3F5-2DE5CF712AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{A514F3DC-5DDA-48B6-B45C-0712329E870B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D2DCCEB3-1740-4CA7-B3F5-2DE5CF712AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2DCCEB3-1740-4CA7-B3F5-2DE5CF712AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2DCCEB3-1740-4CA7-B3F5-2DE5CF712AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A514F3DC-5DDA-48B6-B45C-0712329E870B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A514F3DC-5DDA-48B6-B45C-0712329E870B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A514F3DC-5DDA-48B6-B45C-0712329E870B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A514F3DC-5DDA-48B6-B45C-0712329E870B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
