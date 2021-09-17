@@ -6,7 +6,6 @@ C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\DapperWebApi.runtimeconfig.dev.json
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\DapperWebApi.dll
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\DapperWebApi.pdb
-C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\obj\Debug\netcoreapp3.1\DapperWebApi.csprojAssemblyReference.cache
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\obj\Debug\netcoreapp3.1\DapperWebApi.AssemblyInfoInputs.cache
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\obj\Debug\netcoreapp3.1\DapperWebApi.AssemblyInfo.cs
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\obj\Debug\netcoreapp3.1\DapperWebApi.csproj.CoreCompileInputs.cache
@@ -44,3 +43,11 @@ C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\Services.dll
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\obj\Debug\netcoreapp3.1\DapperWebApi.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\DapperWebApi\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll

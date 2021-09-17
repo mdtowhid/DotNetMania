@@ -3,10 +3,10 @@ C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\bin\Debug\netstandard2
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\bin\Debug\netstandard2.0\Models.dll
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\bin\Debug\netstandard2.0\Models.pdb
-C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CopyComplete
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
 C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.AssemblyReference.cache

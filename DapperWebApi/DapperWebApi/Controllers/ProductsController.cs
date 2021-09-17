@@ -23,14 +23,15 @@ namespace DapperWebApi.Controllers
         [HttpGet]
         public IActionResult GetProducts()
         {
-            return Ok(_repo.GeAll("SELECT * FROM Products").ToList());
+            dynamic x = "djsdkjsjkdsk";
+            return Ok(x);
         }
 
-        [HttpGet("{id}")]
-        public IActionResult GetProductById(int id)
-        {
-            return Ok(_repo.GetById("SELECT * FROM Products WHERE ProdId=@id",id));
-        }
+        //[HttpGet("{id}")]
+        //public IActionResult GetProductById(int id)
+        //{
+        //    return Ok(_repo.GetById("SELECT * FROM Products WHERE ProdId=@id",id));
+        //}
 
         //[HttpDelete]
         //public IActionResult DeleteEmployee(int id)

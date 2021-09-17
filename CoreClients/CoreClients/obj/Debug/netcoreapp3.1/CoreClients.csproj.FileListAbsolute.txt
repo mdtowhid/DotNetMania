@@ -1,5 +1,6 @@
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\CoreClients.exe
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\CoreClients.deps.json
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\CoreClients.runtimeconfig.json
@@ -8,6 +9,16 @@ C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\CoreClients.pdb
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\CoreClients.Views.dll
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\CoreClients.Views.pdb
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\DBConnection.dll
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\bin\Debug\netcoreapp3.1\DBConnection.pdb
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.csprojAssemblyReference.cache
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.AssemblyInfoInputs.cache
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.AssemblyInfo.cs
@@ -31,7 +42,7 @@ C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.RazorTargetAssemblyInfo.cache
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.RazorTargetAssemblyInfo.cs
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.Views.pdb
+C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.csproj.CopyComplete
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.dll
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.pdb
 C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.genruntimeconfig.cache
-C:\Users\hp\Documents\DotNetMania\CoreClients\CoreClients\obj\Debug\netcoreapp3.1\CoreClients.csproj.CopyComplete

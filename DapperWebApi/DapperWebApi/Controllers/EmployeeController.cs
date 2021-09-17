@@ -1,4 +1,5 @@
-﻿using Interfaces;
+﻿using DapperWebApi.Helpers;
+using Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Models;
@@ -10,8 +11,9 @@ using System.Threading.Tasks;
 
 namespace DapperWebApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
+    [ServiceFilter(typeof(LogUserActivity<IEmployeeRepository, Employee>))]
     public class EmployeeController : ControllerBase
     {
         private static IEmployeeRepository _repo;
@@ -36,7 +38,7 @@ namespace DapperWebApi.Controllers
             return Ok(_repo.GetById(query, id));
         }
         [HttpPost]
-        public IActionResult Post([FromForm]Employee employee)
+        public IActionResult Post([FromBody]Employee employee)
         {
             query = @"INSERT INTO 
                                  EmployeeInfo(EmpName, Designation, Department) 

@@ -1,8 +1,58 @@
-﻿@{
+﻿@model List<Product>
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ProdName</th>
+            <th>Category</th>
+            <th>UnitPrice</th>
+            <th>StockQty</th>
+        </tr>
+    </thead>
+    <tbody id="tableBody">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProdName</td>
+                <td>@item.Category</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.StockQty</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    //$(() => {
+    //    let data = JSON.stringify(
+    //        {
+    //            'empId': 1005,
+    //            "empName": "Md",
+    //            "department": "Towhid______!IKW",
+    //            "designation": "Jr. Software Engineer__!"
+    //        });
+    //    let x = 'https://localhost:44301/api/Products/GetProductById/1';
+    //    let y = 'http://localhost/applause/api/Products/GetProductById/1';
+    //    $.ajax({
+    //        url: y,
+    //        type: "GET",
+    //        datatype: "JSON",
+    //        data: '',
+    //        contentType: "application/json",
+    //        crossDomain: "true",
+    //        headers: {
+    //            'contentType': 'application/json',
+    //            'Access-Control-Allow-Headers': '*'
+    //        },
+    //        success: function (data) {
+    //            console.log(data);
+    //        },
+    //        error: function (errors) {
+    //            console.log(errors);
+    //        }
+    //    });
+    //})
+</script>

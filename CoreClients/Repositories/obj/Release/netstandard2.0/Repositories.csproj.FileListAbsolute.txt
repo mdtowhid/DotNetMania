@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\Repositories.deps.json
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\Repositories.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\Repositories.pdb
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\DBConnection.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\Interfaces.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\Models.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\DBConnection.pdb
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\Interfaces.pdb
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\bin\Release\netstandard2.0\Models.pdb
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\obj\Release\netstandard2.0\Repositories.csprojAssemblyReference.cache
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\obj\Release\netstandard2.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\obj\Release\netstandard2.0\Repositories.AssemblyInfo.cs
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\obj\Release\netstandard2.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\obj\Release\netstandard2.0\Repositories.csproj.CopyComplete
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\obj\Release\netstandard2.0\Repositories.dll
+C:\Users\hp\Documents\DotNetMania\DapperWebApi\Repositories\obj\Release\netstandard2.0\Repositories.pdb
